@@ -14,10 +14,10 @@ const Navbar = () => {
         {/* LOGO */}
         <Link href="/" className="flex items-center gap-2">
           <div className="p-1 bg-primary/10 rounded">
-            <ZapIcon className="w-4 h-4 text-primary" />
+            <img src="/linq.svg" alt="" />
           </div>
           <span className="text-xl font-bold font-mono">
-            code<span className="text-primary">flex</span>.ai
+            Linq<span className="text-primary">Fit</span>™
           </span>
         </Link>
 
