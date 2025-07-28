@@ -1,4 +1,4 @@
-import { ZapIcon } from "lucide-react";
+//import { ZapIcon } from "lucide-react";
 import Link from "next/link";
 
 const Footer = () => {
