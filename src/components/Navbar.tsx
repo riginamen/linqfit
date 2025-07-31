@@ -14,7 +14,7 @@ const Navbar = () => {
         {/* LOGO */}
         <Link href="/" className="flex items-center gap-2">
           <div className="p-1 bg-primary/10 rounded">
-            <img src="/linq.svg" alt="" />
+            <img src="/linq.png" alt="" />
           </div>
           <span className="text-xl font-bold font-mono">
             Linq<span className="text-primary">Fit</span>™
